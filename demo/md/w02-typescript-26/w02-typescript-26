@@ -29,6 +29,20 @@
 ![](w02-p4.png)
  
 ```
+31a6585 timd155223      Sun Mar 8 23:43:17 2026 +0800   W02-P4: Modules - import and export in t6.ts and t6a.ts
+```
+
+### W02-P5: Generics Demo in t7.ts
+ 
+#### => interface GenericInterface<T>
+ 
+![](w02-p5-1.png)
+ 
+#### => createArray<T>(length: number, value: T): Array<T>
+ 
+![](w02-p5-2.png)
+ 
+```
 
 ```
 
